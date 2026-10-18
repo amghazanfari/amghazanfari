@@ -1,6 +1,6 @@
 ### Hi there, I'm Amir 👋
 
-I'm a backend & infrastructure engineer from Tehran 🇮🇷, focused on **Go**, **Kubernetes**, and distributed systems. I like building tools that sit close to the metal — operators, proxies, and eBPF programs.
+I'm a backend & infrastructure engineer, focused on **Go**, **Kubernetes**, and distributed systems. I like building tools that sit close to the metal — operators, proxies, and eBPF programs.
 
 - 🔭 Currently working on **[AxonHub](https://github.com/amghazanfari/axonhub-operator)** — a Kubernetes operator for managing full AxonHub deployments via CRDs
 - 🌱 Learning **eBPF** (Rust) and low-level systems programming
@@ -26,9 +26,3 @@ I'm a backend & infrastructure engineer from Tehran 🇮🇷, focused on **Go**,
 #### 🗂️ Things I'm proud of
 
 - **[axonhub-operator](https://github.com/amghazanfari/axonhub-operator)** — Kubernetes operator (Go) managing AxonHub deployments via a custom CRD
-- **[pryx](https://github.com/amghazanfari/pryx)** — LLM reverse proxy in Go with auth, session management, and a web dashboard
-- **[learn-go-with-tests-persian](https://github.com/amghazanfari/learn-go-with-tests-persian)** — Persian translation of *Learn Go with Tests*, helping Persian-speaking developers learn TDD in Go
-
-#### ⚡ Fun fact
-
-I learn in public — my GitHub includes everything from a hobby kernel to device drivers to a wedding card site.

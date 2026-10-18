@@ -26,4 +26,4 @@ I'm a backend & infrastructure engineer, focused on **Go**, **Kubernetes**, and 
 #### 🗂️ Things I'm proud of
 
 - **[axonhub-operator](https://github.com/amghazanfari/axonhub-operator)** — Kubernetes operator (Go) managing AxonHub deployments via a custom CRD
-- **[ebpf-begginer](https://github.com/amghazanfari/ebpf-begginer)** — hands-on eBPF programs in Rust, exploring low-level kernel observability
+- **[ebpf-beginner](https://github.com/amghazanfari/ebpf-beginner)** — hands-on eBPF programs in Rust, exploring low-level kernel observability
